@@ -1,0 +1,3 @@
+C:/Users/keeli/Desktop/Uni/GDIP/ArmKinematicsTesting/cmake-build-debug/CMakeFiles/ArmKinematicsTesting.dir
+C:/Users/keeli/Desktop/Uni/GDIP/ArmKinematicsTesting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/keeli/Desktop/Uni/GDIP/ArmKinematicsTesting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
